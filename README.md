@@ -7,5 +7,5 @@ Shopping List
 
 Choose one:
 
-- [x] Milk
-- [ ] Ice cream
+- [ ] Milk
+- [x] Ice cream
