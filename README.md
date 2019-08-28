@@ -10,5 +10,4 @@ Choose one:
 - [ ] Milk
 - [x] Ice cream
 
-[Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")](https://www.google.com)
+[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")](https://www.google.com)
