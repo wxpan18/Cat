@@ -1,18 +1,7 @@
-# Winona
+                                        # Top 10 Best Restaurants near Winona
 
 
 
-
-
-
-
-
-
-Alt-H1
-======
-Shopping List 
-1. Milk
-2. Ice cream
 
 Choose one:
 
