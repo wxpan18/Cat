@@ -5,11 +5,11 @@
                                  Choose your favoriate restaurant (Click on the pictures)
 
                                                   
-                                                  - [x] KFC
+ - [x] KFC
 
                                                   
                                                   
-                                                  - [x] The Boat house
+ - [x] The Boat house
 
 
 
